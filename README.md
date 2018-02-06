@@ -1,3 +1,5 @@
+![](https://pbs.twimg.com/media/DP-ctEBUMAAE9-d.jpg:large)
+
 **Advent of Code** is a series of small programming puzzles for a variety of skill levels. They are self-contained and are just as appropriate for an expert who wants to stay sharp as they are for a beginner who is just learning to code. Each puzzle calls upon different skills and has two parts that build on a theme.
 
 If you'd like to support Advent of Code, you can do so indirectly by helping to [Shareon Twitter Google+ Reddit] it with others, or directly via PayPal or bitcoin.
